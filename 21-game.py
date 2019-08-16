@@ -1,4 +1,4 @@
-#Trying out my first github program
+#Trying out my first proper github program
 def MyFirstGame(num):
     if num >= 4:
         close = num + (4 - (num % 4))
